@@ -3,7 +3,7 @@ import medigimi from '../assets/medigimi.jpg'
 
 const Mental_health = () => {
   function func1(){
-    window.open("https://github.com/yashikagarg1820/Healthcheck");
+    window.open("https://github.com/yashikagarg1820/MindEase");
 }
   return (
     <div className=' h-full m-7 '>

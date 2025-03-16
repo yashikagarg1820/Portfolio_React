@@ -15,7 +15,7 @@ const Footer = () => {
             <ul className=''>
                 <li className=' flex  text-[20px] md:p-5'> <BiLogoGmail /> coolyashikagarg@gmail.com </li>
              
-                <li className=' flex text-[20px]'><FaPhoneAlt/> 987654321 </li>
+                <li className=' flex text-[20px] md:p-5'><FaPhoneAlt/> 987654321 </li>
             </ul>
             
       
